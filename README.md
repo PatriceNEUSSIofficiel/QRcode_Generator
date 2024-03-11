@@ -44,7 +44,7 @@ python3 QRcode.py
 
 
 
-![Capture d'écran 1](./git.png)
+![QRCode git](./git.png)
 
 
 
