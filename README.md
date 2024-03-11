@@ -28,7 +28,7 @@ pip install qrcode pillow
 1. Naviguez vers le répertoire du projet 
 
 ```shell
-cd chemin/vers/votre-repo
+cd chemin/vers/QRcode_Generator
 ```
 2. Lancez l'application 
 ```shell
